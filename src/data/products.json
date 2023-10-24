@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "APPLE iPhone 14",
+    "description": "Experience smooth operation and brilliant user interface with the 5G-ready Google Pixel 7 Pro smartphone that comes loaded with breathtaking features. Google Tensor G2 makes Pixel 7 faster, more efficient, and more secure and it delivers even more helpful features. Furthermore, the Pixel 7 Pro triple rear camera system includes a 5x telephoto lens. The upgraded ultrawide lens with autofocus now powers Macro Focus. Also, the Pixel 7 Pro has a 30x Super Res Zoom for high-quality photos from far away. Moreover, the Pixel 7 Pro's 17.018 cm (6.7) Smooth Display makes everything stunning and immersive. It intelligently adjusts up to 120 Hz for smoother, more responsive performance.",
+    "price": 10.99,
+    "maxPurchase": 2,
+    "variants": [
+      {
+        "name": "6GB",
+        "price": 10.99
+      },
+      {
+        "name": "8GB",
+        "price": 15.99
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Google Pixel 7",
+    "description": "Experience smooth operation and brilliant user interface with the 5G-ready Google Pixel 7 Pro smartphone that comes loaded with breathtaking features. Google Tensor G2 makes Pixel 7 faster, more efficient, and more secure and it delivers even more helpful features. Furthermore, the Pixel 7 Pro triple rear camera system includes a 5x telephoto lens. The upgraded ultrawide lens with autofocus now powers Macro Focus. Also, the Pixel 7 Pro has a 30x Super Res Zoom for high-quality photos from far away. Moreover, the Pixel 7 Pro's 17.018 cm (6.7) Smooth Display makes everything stunning and immersive. It intelligently adjusts up to 120 Hz for smoother, more responsive performance.",
+    "price": 15.99,
+    "maxPurchase": 4,
+    "variants": [
+      {
+        "name": "Red",
+        "price": 15.99
+      },
+      {
+        "name": "Blue",
+        "price": 18.99
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "SAMSUNG Galaxy S21 FE 5G",
+    "description": "Experience smooth operation and brilliant user interface with the 5G-ready Google Pixel 7 Pro smartphone that comes loaded with breathtaking features. Google Tensor G2 makes Pixel 7 faster, more efficient, and more secure and it delivers even more helpful features. Furthermore, the Pixel 7 Pro triple rear camera system includes a 5x telephoto lens. The upgraded ultrawide lens with autofocus now powers Macro Focus. Also, the Pixel 7 Pro has a 30x Super Res Zoom for high-quality photos from far away. Moreover, the Pixel 7 Pro's 17.018 cm (6.7) Smooth Display makes everything stunning and immersive. It intelligently adjusts up to 120 Hz for smoother, more responsive performance.",
+    "price": 15.99,
+    "maxPurchase": 5,
+    "variants": [
+      {
+        "name": "Red",
+        "price": 15.99
+      },
+      {
+        "name": "Blue",
+        "price": 18.99
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Oneplus XYZ",
+    "description": "Experience smooth operation and brilliant user interface with the 5G-ready Google Pixel 7 Pro smartphone that comes loaded with breathtaking features. Google Tensor G2 makes Pixel 7 faster, more efficient, and more secure and it delivers even more helpful features. Furthermore, the Pixel 7 Pro triple rear camera system includes a 5x telephoto lens.",
+    "price": 15.99,
+    "maxPurchase": 5,
+    "variants": [
+      {
+        "name": "128GB",
+        "price": 15.99
+      },
+      {
+        "name": "512GB",
+        "price": 18.99
+      }
+    ]
+  }
+]
